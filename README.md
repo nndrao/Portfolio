@@ -26,7 +26,7 @@
 
 <img src="images/salesresearchportal.PNG" alt="Sales Portal">
 <br></br>
-<img src="images/salesresearchportal1.PNG.png" alt="Sales Portal">
+<img src="images/salesresearchportal1.PNG" alt="Sales Portal">
 <br></br>
-<img src="images/salesresearchportal2.PNG.png" alt="Sales Portal">
+<img src="images/salesresearchportal2.PNG" alt="Sales Portal">
 <br></br>
