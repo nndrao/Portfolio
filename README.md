@@ -2,13 +2,13 @@
 
 <H2>Curve Viewer</H2>
 <br></br>
-<img src="curveviewer4.PNG" alt="Curve Viewer Login">
+<img src="images/curveviewer4.PNG" alt="Curve Viewer Login">
 
 <br></br>
-<img src="curveviewer1.PNG" alt="Curve Viewer 1">
+<img src="images/curveviewer1.PNG" alt="Curve Viewer 1">
 
 <br></br>
-<img src="curveviewer2.PNG" alt="Curve Viewer 2">
+<img src="images/curveviewer2.PNG" alt="Curve Viewer 2">
 
 <br></br>
-<img src="curveviewer3.PNG" alt="Curve Viewer 3">
+<img src="images/curveviewer3.PNG" alt="Curve Viewer 3">
