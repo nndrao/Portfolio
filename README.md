@@ -1,5 +1,48 @@
+<br></br>
+<H2>Data Quality Rule Wizard</H2>
+<br></br>
+<img src="images/dq1.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq2.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq3.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq4.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq5.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq6.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq7.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq8.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq9.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq10.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq11.png" alt="Data Quality">
+<br></br>
+<br></br>
+<img src="images/dq12.png" alt="Data Quality">
+<br></br>
+
+
 
 <br></br>
+<br></br>
+
+
 <H2>Curve Viewer</H2>
 <br></br>
 <img src="images/curveviewer4.PNG" alt="Curve Viewer Login">
